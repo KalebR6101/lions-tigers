@@ -9,6 +9,12 @@ It is based on Brad Schiff's tutorial: [Dogs, JavaScript & An API](https://www.b
 - Displays images in a slide show
 - Responsive and simple UI
 
+## Getting Started
+1. Clone the repository:  
+   `git clone https://github.com/KalebR6101/lions-tigers.git`
+2. Open `index.html` in your browser to view locally.
+3. Or visit the Azure-hosted site: [Your Azure Website URL]
+
 ## Credits
 This project follows the tutorial by **Brad Schiff**. All credit goes to him for the original implementation.
 
